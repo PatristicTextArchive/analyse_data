@@ -1,0 +1,8 @@
+- requests
+- matplotlib
+- wordcloud
+- lxml
+- pandas
+- IPython.display
+- spacy==3.7.5
+- nltk
